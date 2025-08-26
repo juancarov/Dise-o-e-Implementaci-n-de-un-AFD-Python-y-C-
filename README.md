@@ -114,6 +114,8 @@ if __name__ == "__main__":
 
 A continuación, podemos ver la salida por consola, donde nos muestra la cadena, el recorrido que esta hace, y por último si, con base en las reglas, es aceptada o no.
 
+![Salida En Consola Python](SALIDACADENASPY.png)
+
 ## C
 
 En la versión en C se desarrolla la misma lógica, pero con un manejo manual de cadenas y estructuras, mostrando cómo leer archivos de configuración y aplicar transiciones de forma más explícita en bajo nivel.
@@ -267,3 +269,6 @@ int main() {
 </pre>
 
 A continuación, podemos ver la salida por consola, donde nos muestra la cadena, el recorrido que esta hace, y por último si, con base en las reglas, es aceptada o no.
+
+
+![Salida En Consola Python](SALIDACADENASC.png)
